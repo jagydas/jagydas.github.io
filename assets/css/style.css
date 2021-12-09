@@ -107,6 +107,25 @@ header nav ul li a {
     position: relative;
 }
 
+.tile-2 {
+    /* color: skyblue; */
+    border-style: solid;
+    border-width: 10px;
+    /*height: 250px; */
+    background-image: url('../images/Health_tracker.PNG');
+    background-size: cover;
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: fixed;
+    background-position: 100%;
+    position: relative;
+}
+
 .bottom {
     position: absolute;
     bottom: 0;
